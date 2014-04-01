@@ -1,1 +1,1 @@
-For lab4 just add exception handling to your discount strategy project.
+For lab4 just add except ion handling to your discount strategy project.
